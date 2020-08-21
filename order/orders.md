@@ -4,19 +4,19 @@
 
 ## Response:
 
-```
+```json
 {
-  "next": "https:\/\/api.robinhood.com\/orders\/?cursor=4aXgk8u72iXpmsyoL4nzpi2Xr5f4iXFtwB4d3te5cTzrshU6bzaxVMU9",
+  "next": "https://api.robinhood.com/orders/?cursor=4aXgk8u72iXpmsyoL4nzpi2Xr5f4iXFtwB4d3te5cTzrshU6bzaxVMU9",
   "previous": null,
   "results": [
     {
       "id": "845e0a73-a84f-4212-b3f1-c58e45d4ca5a",
       "ref_id": "c25caa22-5c72-415e-84ee-7e9ed85a21e4",
-      "url": "https:\/\/api.robinhood.com\/orders\/845e0a73-a84f-4212-b3f1-c58e45d4ca5a\/",
-      "account": "https:\/\/api.robinhood.com\/accounts\/123456789\/",
-      "position": "https:\/\/api.robinhood.com\/positions\/123456789\/b82eb909-7995-412f-8ddd-ce8d8d6bd391\/",
+      "url": "https://api.robinhood.com/orders/845e0a73-a84f-4212-b3f1-c58e45d4ca5a/",
+      "account": "https://api.robinhood.com/accounts/123456789/",
+      "position": "https://api.robinhood.com/positions/123456789/b82eb909-7995-412f-8ddd-ce8d8d6bd391/",
       "cancel": null,
-      "instrument": "https:\/\/api.robinhood.com\/instruments\/b82eb909-7995-412f-8ddd-ce8d8d6bd391\/",
+      "instrument": "https://api.robinhood.com/instruments/b82eb909-7995-412f-8ddd-ce8d8d6bd391/",
       "cumulative_quantity": "1.00000000",
       "average_price": "1496.55000000",
       "fees": "0.04",

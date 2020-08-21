@@ -2,7 +2,7 @@
 
 ## Request POST:
 
-```
+```json
 {
   "grant_type": "password",
   "scope": "internal",
@@ -17,7 +17,7 @@ grant_type: "password", "sms", "email"
 
 ## Response:
 
-```
+```json
 {
   "access_token": "xxxxxxx",
   "expires_in": 1000907,

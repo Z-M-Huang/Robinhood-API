@@ -4,10 +4,10 @@
 
 ## Response:
 
-```
+```json
 {
-  "url": "https:\/\/api.robinhood.com\/portfolios\/123456789\/",
-  "account": "https:\/\/api.robinhood.com\/accounts\/123456789\/",
+  "url": "https://api.robinhood.com/portfolios/123456789/",
+  "account": "https://api.robinhood.com/accounts/123456789/",
   "start_date": "2019-01-02",
   "market_value": "3456.7890",
   "equity": "123456.7890",

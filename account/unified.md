@@ -4,7 +4,7 @@
 
 ## Response:
 
-```
+```json
 {
   "account_buying_power": {
     "currency_code": "USD",

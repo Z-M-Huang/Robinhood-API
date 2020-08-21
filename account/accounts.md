@@ -4,7 +4,7 @@
 
 ## Response:
 
-```
+```json
 {
   "next": null,
   "previous": null,
